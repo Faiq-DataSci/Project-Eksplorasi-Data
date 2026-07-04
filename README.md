@@ -195,13 +195,13 @@ pip install pandas numpy matplotlib scipy scikit-learn openpyxl
 1. Clone repository.
 
 ```bash
-git clone https://github.com/Faiq-DataSci/.git
+git clone https://github.com/Faiq-DataSci/Project-Eksplorasi-Data.git
 ```
 
 2. Masuk ke folder project.
 
 ```bash
-cd nama-repository
+cd Project-Eksplorasi-Data
 ```
 
 3. Install library.
